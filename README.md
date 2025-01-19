@@ -1,4 +1,4 @@
-# Bong Baesa Portfolio
+# MY Portfolio
 
 Welcome to the source code for **Bong Baesa's Portfolio**, a personal website showcasing my skills, projects, and contact information as a web developer. This site highlights my journey, accomplishments, and contributions to the field of web development.
 
